@@ -26,5 +26,4 @@ __Metric(s):__
 ## How to run the file
 First download the data from Data Source then run the file: QuoraQuesPairSim.ipynb.
 
-## Authors
-- Gaurav Sharma - Complete work
+
